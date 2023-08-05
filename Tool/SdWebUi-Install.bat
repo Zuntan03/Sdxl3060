@@ -27,7 +27,7 @@ if not exist Venv (
 
 echo https://github.com/AUTOMATIC1111/stable-diffusion-webui
 if not exist stable-diffusion-webui (
-	git clone -b hires_checkpoint https://github.com/AUTOMATIC1111/stable-diffusion-webui
+	git clone -b dev https://github.com/AUTOMATIC1111/stable-diffusion-webui
 	copy /Y %~dp0\config.json stable-diffusion-webui
 	copy /Y %~dp0\ui-config.json stable-diffusion-webui
 )
