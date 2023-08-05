@@ -1,0 +1,22 @@
+{
+	"txt2img/Height/value": 1344,
+	"txt2img/Width/value": 768,
+	"txt2img/Sampling method/value": "DPM++ 2M Karras",
+	"txt2img/Sampling steps/value": 25,
+	"txt2img/Upscaler/value": "Latent (nearest-exact)",
+	"txt2img/Hires steps/value": 15,
+	"txt2img/Denoising strength/value": 0.6,
+	"txt2img/Upscale by/value": 1.0,
+	"txt2img/CFG Scale/value": 7.0,
+	"img2img/Height/value": 1344,
+	"img2img/Width/value": 768,
+	"img2img/Sampling method/value": "DPM++ 2M Karras",
+	"img2img/Sampling steps/value": 25,
+	"img2img/Denoising strength/value": 0.6,
+	"img2img/CFG Scale/value": 7.0,
+	"customscript/tilediffusion.py/img2img/Method/value": "Mixture of Diffusers",
+	"customscript/tilediffusion.py/img2img/Latent tile overlap/value": 8,
+	"customscript/tilediffusion.py/img2img/Upscaler/value": "R-ESRGAN 4x+",
+	"customscript/tilediffusion.py/img2img/Inversion steps/value": 15,
+	"customscript/tilediffusion.py/img2img/Renoise strength/value": 0
+}

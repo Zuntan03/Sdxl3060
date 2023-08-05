@@ -1,0 +1,22 @@
+{
+	"samples_filename_pattern": "[datetime<%m%d-%H%M-%S%y>]-C[cfg]-[width]x[height]",
+	"export_for_4chan": false,
+	"outdir_txt2img_samples": "../../Image",
+	"outdir_img2img_samples": "../../Image",
+	"outdir_extras_samples": "../../Image",
+	"outdir_txt2img_grids": "../../Grid",
+	"outdir_img2img_grids": "../../Grid",
+	"outdir_save": "../../Image",
+	"sd_checkpoint_cache": 2,
+	"sd_vae_checkpoint_cache": 2,
+	"sd_vae": "sdxl_vae.safetensors",
+	"CLIP_stop_at_last_layers": 2,
+	"lora_preferred_name": "Filename",
+	"quicksettings": "sd_model_checkpoint, sd_vae, CLIP_stop_at_last_layers",
+	"hires_fix_show_sampler": true,
+	"disable_weights_auto_swap": false,
+	"live_previews_enable": false,
+	"localization": "ja_JP",
+	"bilingual_localization_enabled": false,
+	"bilingual_localization_file": "ja_JP"
+}
