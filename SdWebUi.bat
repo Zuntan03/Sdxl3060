@@ -20,6 +20,8 @@ set COMMANDLINE_ARGS=^
  --lora-dir ../../Lora^
  --xformers^
  --autolaunch^
+ --medvram^
+ --no-half-vae^
  %~1
 
 call webui.bat

@@ -16,10 +16,6 @@ SDXL を Geforce RTX 3060 で試す環境です。
 	- **「WindowsによってPCが保護されました」と表示されたら、「詳細表示」から「実行」します。**  
 3. 以降は `SdWebUi.bat` で起動します。
 
-# FAQ
-
-- `--medvram` や `--no-half-vae` を有効にしたい場合は、`SdWebUi.bat` を書き換えてください。
-
 # ライセンス
 
 このリポジトリのスクリプトやドキュメントは、[MIT License](./LICENSE.txt)です。
