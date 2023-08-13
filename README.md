@@ -4,6 +4,8 @@ SDXL を Geforce RTX 3060 で試す環境です。
 
 [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)(SdWebUi) を使用します。
 
+**SDXLを試すなら [Fooocus](https://github.com/lllyasviel/Fooocus) がオススメです。(2023/08/13)**
+
 # 動作環境
 
 - Geforce RTX 3060(12GB) 以上を搭載した、Windows 10（64bit, Windows Update済み）以降の PC
